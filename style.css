@@ -494,4 +494,7 @@
                 .back-to-top {
                     padding: 15px;
                 }
+                .grid1 {
+                    grid-gap: 20px;
+                }
             }
